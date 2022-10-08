@@ -1,4 +1,4 @@
-# Storm Coding Exercise #
+# Storm Word Counting #
 
 ## Overview ##
 
